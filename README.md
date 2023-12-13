@@ -1,0 +1,1 @@
+helikopter ve üretici firmayı içeren bir CSV parçasını okuyan ve bu verileri kullanarak bir API adı basit bir Python kodu örneği bulunmaktadır.Bu kod örneğinde, load_helicoptersfonksiyonun CSV dosyasındaki helikopteri yükler. /helicoptersEndpoint'ine yapılan GET isteği tüm helikopterleri dönerken, /helicopters/<id>endpoint'i belirli bir helikopteri getirmek için kullanılır.
